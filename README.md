@@ -3,7 +3,7 @@
 To install and play the Set Game, follow these steps
 
 
-Clone repository: Download the zip file at this link: <https://github.com/cse-3901-sharkey/2024-Sp-Team-1-Lab-1.git>
+Clone repository
 
 
 Extract the files contained in the zip
